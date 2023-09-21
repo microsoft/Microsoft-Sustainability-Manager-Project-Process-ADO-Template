@@ -39,8 +39,7 @@ You'll need access to the [Azure DevOps Demo Generator site](https://azuredevops
 Follow these clear, step-by-step instructions to deploy the template:
 
 1. **Download the Template Zip file**:
-   - Begin by downloading the [Microsoft Sustainability Manager PoC Teamplate for Partners.zip](./bin/Microsoft Sustainability Manager PoC Teamplate for Partners.zip) to your local machine
-   ![Download Template Zip file](./bin/Microsoft Sustainability Manager PoC Teamplate for Partners.zip/)
+   - Begin by downloading the [Microsoft Sustainability Manager PoC Teamplate for Partners.zip](https://github.com/microsoft/Microsoft-Sustainability-Manager-Project-Process-ADO-Template/blob/main/distribution/Microsoft%20Sustainability%20Manager%20PoC%20Teamplate%20for%20Partners.zip) to your local machine  
 
 3. **Access the Azure DevOps Demo Generator**:
    - Visit the [Azure DevOps Demo Generator site](https://azuredevopsdemogenerator.azurewebsites.net/).

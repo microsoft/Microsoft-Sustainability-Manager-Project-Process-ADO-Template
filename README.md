@@ -1,4 +1,4 @@
-# [Private] Microsoft Sustainability Manager Project Process Template for Partners
+# Microsoft Sustainability Manager Project Process Template for Partners
 
 Welcome to the Microsoft Sustainability Manager Proof of Concept (PoC) Template for Azure DevOps. This template is your essential companion for simplifying the setup process of a Microsoft Sustainability Manager (MSM) PoC, ensuring that you have all the resources and information you need at your fingertips.
 
